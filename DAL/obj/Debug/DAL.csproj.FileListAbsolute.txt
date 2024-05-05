@@ -1,0 +1,9 @@
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\bin\Debug\DAL.dll
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\bin\Debug\DAL.pdb
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\bin\Debug\Entity.dll
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\bin\Debug\Entity.pdb
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\obj\Debug\DAL.dll
+C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\DAL\obj\Debug\DAL.pdb
