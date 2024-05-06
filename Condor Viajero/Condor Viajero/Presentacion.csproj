@@ -81,16 +81,43 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\Cls_ApiKey.cs" />
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_CrearCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_CrearCuenta.Designer.cs">
+      <DependentUpon>Frm_CrearCuenta.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_Mapa.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Frm_Mapa.Designer.cs">
       <DependentUpon>Frm_Mapa.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Splash.Designer.cs">
+      <DependentUpon>Frm_Splash.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_CrearCuenta.resx">
+      <DependentUpon>Frm_CrearCuenta.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Frm_Mapa.resx">
       <DependentUpon>Frm_Mapa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Splash.resx">
+      <DependentUpon>Frm_Splash.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -100,8 +127,8 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -124,6 +151,24 @@
       <Project>{f24612a8-d8f3-49c3-95ca-59132b9fa864}</Project>
       <Name>Entity</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LetraLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CondorLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Placer Al viajar.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

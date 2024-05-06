@@ -16,7 +16,7 @@ namespace Condor_Viajero
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_Mapa());
+            Application.Run(new Frm_Splash());
         }
     }
 }
