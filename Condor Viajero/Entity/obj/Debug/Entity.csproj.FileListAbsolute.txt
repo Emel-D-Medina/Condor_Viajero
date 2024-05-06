@@ -1,0 +1,6 @@
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Entity\bin\Debug\Entity.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Entity\bin\Debug\Entity.pdb
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.pdb

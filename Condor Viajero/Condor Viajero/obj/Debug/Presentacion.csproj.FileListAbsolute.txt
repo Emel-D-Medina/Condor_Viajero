@@ -1,0 +1,34 @@
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_Mapa.resources
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Properties.Resources.resources
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Condor Viajero.exe.config
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Condor Viajero.exe
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Condor Viajero.pdb
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\BLL.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Entity.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\EntityFramework.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\GMap.NET.Core.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SQLite.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\BLL.pdb
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Entity.pdb
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\EntityFramework.xml
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SQLite.xml
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor Viajero.exe
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor Viajero.pdb
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_CrearCuenta.resources
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.FrmLogin.resources
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_Splash.resources
