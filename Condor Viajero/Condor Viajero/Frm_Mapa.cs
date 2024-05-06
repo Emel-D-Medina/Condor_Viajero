@@ -115,6 +115,7 @@ namespace Condor_Viajero
 
         private void Mapa_MouseDoubleClick(object sender, MouseEventArgs e)
         {
+            Bitmap flecha = Properties.Resources.arrow;
             double Lat = Mapa.FromLocalToLatLng(e.X, e.Y).Lat;
             double Lng = Mapa.FromLocalToLatLng(e.X, e.Y).Lng;
             puntosAnteriores.Add(new PointLatLng(Lat, Lng));
@@ -122,7 +123,7 @@ namespace Condor_Viajero
             Lugar = new PointLatLng(Lat, Lng);
             TxtLatitud.Text = Lat.ToString();
             TxtLongitud.Text = Lng.ToString();
-            DibujarMarcador(Lugar, "Punto", GMarkerGoogleType.black_small);
+            DibujarMarcador(Lugar, "Punto",0,flecha);
 
             if (trazarRuta == true)
             {
@@ -255,6 +256,7 @@ namespace Condor_Viajero
 
         private void Paradas()
         {
+            Bitmap Estacion = Properties.Resources.estacion;
             PointLatLng lasFloresParada = new PointLatLng(10.469994, -73.257306);
             PointLatLng UpcParada = new PointLatLng(10.450651, -73.26183);
 
@@ -262,12 +264,13 @@ namespace Condor_Viajero
             paradas.Add(UpcParada);
 
 
-            DibujarMarcador(UpcParada, "Parada upc", GMarkerGoogleType.black_small);
-            DibujarMarcador(lasFloresParada, "Parada las flores", GMarkerGoogleType.black_small);
+            DibujarMarcador(UpcParada, "Parada upc",0,Estacion);
+            DibujarMarcador(lasFloresParada, "Parada las flores",0,Estacion);
 
             Figureradio(lasFloresParada);
             Figureradio(UpcParada);
         }
+
 
         private void DibujarMarcador(PointLatLng ubicacion, string description, GMarkerGoogleType arrow = 0, Bitmap Img = null)
         {
@@ -324,13 +327,14 @@ namespace Condor_Viajero
 
         public void MiUbicacion()
         {
+            Bitmap UbicacionUser = Properties.Resources.user_lot;
             GeoCoordinateWatcher Gwatcher = new GeoCoordinateWatcher();
             Gwatcher.PositionChanged += (oS, e) => {
                 var coordinate = e.Position.Location;
 
                 MiUbi = new PointLatLng(coordinate.Latitude, coordinate.Longitude);
 
-                DibujarMarcador(MiUbi, "Mi ubicacion", GMarkerGoogleType.black_small);
+                DibujarMarcador(MiUbi, "Mi ubicacion",0,UbicacionUser);
                 Figureradio(MiUbi);
                 servicio.CalcularDistancia(MiUbi);
             };
