@@ -35,6 +35,7 @@ namespace Condor_Viajero
             Mapa.Position = Valledupar;
             Mapa.DragButton = MouseButtons.Left;
             Mapa.MinZoom = 12; Mapa.MaxZoom = 18; Mapa.Zoom = 13;
+            Mapa.BoundsOfMap = new RectLatLng(10.512004757146466, -73.30844820675001, 0.1, 0.1);
         }
     }
 }

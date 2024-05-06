@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
 namespace Condor_Viajero
 {
     public partial class Frm_Splash : Form
@@ -19,9 +18,8 @@ namespace Condor_Viajero
         }
         private void Slpash_Load(object sender, EventArgs e)
         {
-            Circulo1.Size = Circulo2.Size = Circulo3.Size = Circulo4.Size=new Size(0,0);
-            timer1.Start();
-            
+            Circulo1.Size = Circulo2.Size = Circulo3.Size = Circulo4.Size = new Size(0,0);
+            timer1.Start();       
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -43,8 +41,6 @@ namespace Condor_Viajero
             {
                 timer2.Stop();
             }
-           
-
         }
 
         private void timer3_Tick(object sender, EventArgs e)
@@ -59,7 +55,6 @@ namespace Condor_Viajero
             {
                 timer3.Stop(); timer4.Start();
             }
-
         }
 
         private void timer4_Tick(object sender, EventArgs e)
@@ -70,7 +65,6 @@ namespace Condor_Viajero
             {
                 timer4.Stop();
             }
-
         }
 
         private void timer5_Tick(object sender, EventArgs e)
@@ -105,7 +99,6 @@ namespace Condor_Viajero
             {
                 timer7.Stop(); timer8.Start(); ;
             }
-
         }
 
         private void timer8_Tick(object sender, EventArgs e)
@@ -117,7 +110,6 @@ namespace Condor_Viajero
                 timer8.Stop();
                 timer9.Start();
             }
-
         }
 
         private void timer9_Tick(object sender, EventArgs e)

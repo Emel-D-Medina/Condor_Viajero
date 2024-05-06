@@ -24,18 +24,15 @@ namespace Condor_Viajero
             String Contra = "123";
             if(Validar_Datos(Usuario, Contra).Equals(true))
             {
-                Frm_Mapa mapa = new Frm_Mapa();
-                mapa.Visible = true;
-                this.Close();
-            }
-
-            
+                //Frm_Mapa mapa = new Frm_Mapa();
+                //mapa.Visible = true;
+                //this.Close();
+            }   
         }
-        private bool Validar_Datos(String Usuario, String Contra) {
-
+        private bool Validar_Datos(String Usuario, String Contra)
+        {
             if ((TxtUsuario.Text.Equals(Usuario)) && (TxtContraseña.Text.Equals(Contra)))
             {
-                
                 return true;
             }
             else if ((TxtUsuario.Text.Equals("")) || (TxtContraseña.Text.Equals("")))
@@ -45,12 +42,9 @@ namespace Condor_Viajero
             }
             else
             {
-                MessageBox.Show("datos incorrectos");
+                MessageBox.Show("Datos incorrectos");
                 return false;
-
             }
-
-
         }
 
         private void BtnLoginClose_Click(object sender, EventArgs e)
