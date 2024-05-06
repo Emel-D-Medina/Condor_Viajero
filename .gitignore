@@ -1,1 +1,7 @@
-Condor Viajero/.vs/
+.vs/
+bin/
+obj/
+
+.exe
+.cache
+.pdb
