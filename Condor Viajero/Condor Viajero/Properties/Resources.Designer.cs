@@ -83,6 +83,16 @@ namespace Condor_Viajero.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap condor_cumbia_condor {
+            get {
+                object obj = ResourceManager.GetObject("condor-cumbia-condor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap CondorLogo {
             get {
                 object obj = ResourceManager.GetObject("CondorLogo", resourceCulture);

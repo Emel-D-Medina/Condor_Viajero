@@ -24,9 +24,9 @@ namespace Condor_Viajero
             String Contra = "123";
             if(Validar_Datos(Usuario, Contra).Equals(true))
             {
-                Frm_Mapa mapa = new Frm_Mapa();
-                mapa.Visible = true;
-                this.Close();
+                //Frm_Mapa mapa = new Frm_Mapa();
+                //mapa.Visible = true;
+                //this.Close();
             }   
         }
         private bool Validar_Datos(String Usuario, String Contra)
@@ -49,8 +49,7 @@ namespace Condor_Viajero
 
         private void BtnLoginClose_Click(object sender, EventArgs e)
         {
-            this.Close();
-            this.Enabled = false;
+            Application.Exit();
         }
 
         private void LinkCrearCuenta_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -62,6 +61,9 @@ namespace Condor_Viajero
 
         private void Link_Login_OlvidaContra_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+            Frm_RecuperarContra recuperar = new Frm_RecuperarContra();
+            recuperar.Visible = true;
+            this.Close();
         }
     }
 }

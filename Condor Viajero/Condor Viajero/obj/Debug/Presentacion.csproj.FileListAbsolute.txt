@@ -32,37 +32,4 @@ C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_CrearCuenta.resources
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.FrmLogin.resources
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_Splash.resources
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Condor Viajero.exe.config
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Condor Viajero.exe
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Condor Viajero.pdb
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\BLL.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Entity.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\EntityFramework.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\GMap.NET.Core.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\GMap.NET.WindowsForms.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SqlClient.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SQLite.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SQLite.EF6.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SQLite.Linq.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Security.Principal.Windows.dll
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\BLL.pdb
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Entity.pdb
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\EntityFramework.xml
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SqlClient.xml
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Data.SQLite.xml
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\bin\Debug\System.Security.Principal.Windows.xml
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.AssemblyReference.cache
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.FrmLogin.resources
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_CrearCuenta.resources
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_Mapa.resources
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_Splash.resources
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Properties.Resources.resources
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.GenerateResource.cache
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.CopyComplete
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor Viajero.exe
-C:\Users\Emel D Medina\Documents\Visual Studio 2019\Codes\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor Viajero.pdb
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_RecuperarContra.resources

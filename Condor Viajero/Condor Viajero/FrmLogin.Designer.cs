@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmLogin));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.Condor = new System.Windows.Forms.PictureBox();
             this.LbLogin = new System.Windows.Forms.Label();
             this.TxtUsuario = new System.Windows.Forms.TextBox();
             this.TxtContraseña = new System.Windows.Forms.TextBox();
@@ -39,10 +40,9 @@
             this.label2 = new System.Windows.Forms.Label();
             this.Link_Logic_CrearCuenta = new System.Windows.Forms.LinkLabel();
             this.BtnLoginClose = new System.Windows.Forms.PictureBox();
-            this.Condor = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.BtnLoginClose)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Condor)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BtnLoginClose)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -54,6 +54,16 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(200, 450);
             this.panel1.TabIndex = 0;
+            // 
+            // Condor
+            // 
+            this.Condor.Image = global::Condor_Viajero.Properties.Resources.condor_cumbia_condor;
+            this.Condor.Location = new System.Drawing.Point(0, 83);
+            this.Condor.Name = "Condor";
+            this.Condor.Size = new System.Drawing.Size(200, 270);
+            this.Condor.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Condor.TabIndex = 1;
+            this.Condor.TabStop = false;
             // 
             // LbLogin
             // 
@@ -165,16 +175,6 @@
             this.BtnLoginClose.TabStop = false;
             this.BtnLoginClose.Click += new System.EventHandler(this.BtnLoginClose_Click);
             // 
-            // Condor
-            // 
-            this.Condor.Image = global::Condor_Viajero.Properties.Resources.CondorLogo;
-            this.Condor.Location = new System.Drawing.Point(-30, 83);
-            this.Condor.Name = "Condor";
-            this.Condor.Size = new System.Drawing.Size(271, 270);
-            this.Condor.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.Condor.TabIndex = 1;
-            this.Condor.TabStop = false;
-            // 
             // FrmLogin
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -196,8 +196,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmLogin";
             this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.BtnLoginClose)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Condor)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BtnLoginClose)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
