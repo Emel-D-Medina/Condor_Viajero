@@ -35,6 +35,22 @@ namespace Condor_Viajero
             Mapa.Position = Valledupar;
             Mapa.DragButton = MouseButtons.Left;
             Mapa.MinZoom = 12; Mapa.MaxZoom = 18; Mapa.Zoom = 13;
+            Mapa.BoundsOfMap = new RectLatLng(10.512004757146466, -73.30844820675001, 0.1, 0.1);
+            
+            GMapOverlay Poligono = new GMapOverlay("Poligono de prueba");
+            List<PointLatLng> poligonos = new List<PointLatLng>()
+            {
+                new PointLatLng(10.512004757146466, -73.30844820675001),
+                new PointLatLng(10.512004757146466, -73.21231298218156),
+                new PointLatLng(10.41354917985405, -73.21231298218156),
+                new PointLatLng(10.41354917985405, -73.30844820675001),
+            };
+
+            GMapPolygon p = new GMapPolygon(poligonos, "Verificación");
+            Poligono.Polygons.Add(p);
+            Mapa.Overlays.Add(Poligono);
+            Mapa.Zoom++; Mapa.Zoom--;
+
         }
     }
 }
