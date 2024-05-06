@@ -40,6 +40,7 @@ namespace Condor_Viajero
             GMapOverlay Poligono = new GMapOverlay("Poligono de prueba");
             List<PointLatLng> poligonos = new List<PointLatLng>()
             {
+                //Cambio todo pendejo
                 new PointLatLng(10.512004757146466, -73.30844820675001),
                 new PointLatLng(10.512004757146466, -73.21231298218156),
                 new PointLatLng(10.41354917985405, -73.21231298218156),
