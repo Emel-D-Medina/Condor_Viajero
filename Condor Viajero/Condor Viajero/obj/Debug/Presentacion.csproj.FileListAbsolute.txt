@@ -32,3 +32,4 @@ C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_CrearCuenta.resources
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.FrmLogin.resources
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_Splash.resources
+C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_RecuperarContra.resources

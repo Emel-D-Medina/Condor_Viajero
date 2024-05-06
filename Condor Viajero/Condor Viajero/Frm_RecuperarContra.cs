@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Condor_Viajero
 {
-    public partial class Frm_CrearCuenta : Form
+    public partial class Frm_RecuperarContra : Form
     {
-        public Frm_CrearCuenta()
+        public Frm_RecuperarContra()
         {
             InitializeComponent();
         }
@@ -45,14 +45,14 @@ namespace Condor_Viajero
         {
 
            
-             if ((Txt_CrearCuenta_Usuario.Text.Equals("")) && (Txt_CrearCuenta_Contra.Text.Equals("")) && (Txt_CrearCuenta_Correo.Text.Equals("")))
+             if ((Txt_Recuperar_Usuario.Text.Equals("")) && (Txt_RecuperarContra_Correo.Text.Equals("")))
             {
                 MessageBox.Show("No hay datos");
                 return false;
             }
             else
             {
-                MessageBox.Show("Usuario Creado");
+                MessageBox.Show("Contraseña enviada al correo");
                 return true;
 
             }
