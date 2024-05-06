@@ -1,5 +1,4 @@
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.AssemblyReference.cache
-C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Frm_Mapa.resources
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Condor_Viajero.Properties.Resources.resources
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.GenerateResource.cache
 C:\Users\Luis\Documents\GitHub\Condor_Viajero\Condor Viajero\Condor Viajero\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
