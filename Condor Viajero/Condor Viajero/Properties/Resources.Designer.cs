@@ -63,6 +63,16 @@ namespace Condor_Viajero.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap arrow {
+            get {
+                object obj = ResourceManager.GetObject("arrow", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap boton {
             get {
                 object obj = ResourceManager.GetObject("boton", resourceCulture);
@@ -103,6 +113,16 @@ namespace Condor_Viajero.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap estacion {
+            get {
+                object obj = ResourceManager.GetObject("estacion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap LetraLogo {
             get {
                 object obj = ResourceManager.GetObject("LetraLogo", resourceCulture);
@@ -126,6 +146,16 @@ namespace Condor_Viajero.Properties {
         internal static System.Drawing.Bitmap Placer_Al_viajar {
             get {
                 object obj = ResourceManager.GetObject("Placer Al viajar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user_lot {
+            get {
+                object obj = ResourceManager.GetObject("user_lot", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

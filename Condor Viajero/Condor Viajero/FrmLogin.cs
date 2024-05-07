@@ -24,9 +24,9 @@ namespace Condor_Viajero
             String Contra = "123";
             if(Validar_Datos(Usuario, Contra).Equals(true))
             {
-                //Frm_Mapa mapa = new Frm_Mapa();
-                //mapa.Visible = true;
-                //this.Close();
+                Frm_Mapa mapa = new Frm_Mapa();
+                mapa.Visible = true;
+                this.Close();
             }   
         }
         private bool Validar_Datos(String Usuario, String Contra)
