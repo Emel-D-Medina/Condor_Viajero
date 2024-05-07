@@ -22,27 +22,40 @@ namespace Condor_Viajero
         {
             String Usuario = "admin";
             String Contra = "123";
-            if(Validar_Datos(Usuario, Contra).Equals(true))
+            string User = "user";
+            string Password = "123";
+            if (Validar_Datos(Usuario, Contra).Equals(true))
             {
                 Frm_Mapa mapa = new Frm_Mapa();
                 mapa.Visible = true;
                 this.Close();
-            }   
+            }
+            if (Validar_Datos(User, Password).Equals(true))
+            {
+                Frm_UserView userView = new Frm_UserView();
+                userView.Visible = true;
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Datos incorrectos");
+            }
         }
         private bool Validar_Datos(String Usuario, String Contra)
         {
+            // Cambie esto mientras para que no me saltara la advertencia de datos, simplemente pase el msgbox hacia arriba para evitar la fatiga
+            // y cambie para que verificara los campos vacios con una funcion del lenguaje
             if ((TxtUsuario.Text.Equals(Usuario)) && (TxtContraseña.Text.Equals(Contra)))
             {
                 return true;
             }
-            else if ((TxtUsuario.Text.Equals("")) || (TxtContraseña.Text.Equals("")))
+            else if (string.IsNullOrEmpty(TxtUsuario.Text) || (string.IsNullOrEmpty(TxtContraseña.Text)))
             {
                 MessageBox.Show("No hay datos");
                 return false;
             }
             else
             {
-                MessageBox.Show("Datos incorrectos");
                 return false;
             }
         }

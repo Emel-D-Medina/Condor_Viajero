@@ -58,7 +58,7 @@
             // 
             // Condor
             // 
-            this.Condor.Image = global::Condor_Viajero.Properties.Resources.CondorLogo;
+            this.Condor.Image = global::Condor_Viajero.Properties.Resources.CondorLogo__1_;
             this.Condor.Location = new System.Drawing.Point(-35, 87);
             this.Condor.Name = "Condor";
             this.Condor.Size = new System.Drawing.Size(271, 270);
@@ -73,7 +73,7 @@
             this.LbLogin.ForeColor = System.Drawing.Color.White;
             this.LbLogin.Location = new System.Drawing.Point(297, 9);
             this.LbLogin.Name = "LbLogin";
-            this.LbLogin.Size = new System.Drawing.Size(289, 44);
+            this.LbLogin.Size = new System.Drawing.Size(238, 37);
             this.LbLogin.TabIndex = 2;
             this.LbLogin.Text = "CREAR CUENTA";
             // 
@@ -84,7 +84,7 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(242, 151);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(79, 23);
+            this.label2.Size = new System.Drawing.Size(66, 21);
             this.label2.TabIndex = 9;
             this.label2.Text = "Usuario";
             // 
@@ -96,7 +96,7 @@
             this.Txt_CrearCuenta_Usuario.ForeColor = System.Drawing.Color.White;
             this.Txt_CrearCuenta_Usuario.Location = new System.Drawing.Point(242, 177);
             this.Txt_CrearCuenta_Usuario.Name = "Txt_CrearCuenta_Usuario";
-            this.Txt_CrearCuenta_Usuario.Size = new System.Drawing.Size(411, 23);
+            this.Txt_CrearCuenta_Usuario.Size = new System.Drawing.Size(411, 20);
             this.Txt_CrearCuenta_Usuario.TabIndex = 10;
             this.Txt_CrearCuenta_Usuario.Tag = "Usuario";
             // 
@@ -107,7 +107,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(242, 229);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(125, 23);
+            this.label1.Size = new System.Drawing.Size(103, 21);
             this.label1.TabIndex = 11;
             this.label1.Text = "Contraseña";
             // 
@@ -118,7 +118,7 @@
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(242, 78);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(192, 23);
+            this.label3.Size = new System.Drawing.Size(154, 21);
             this.label3.TabIndex = 12;
             this.label3.Text = "Correo Electronico";
             // 
@@ -130,7 +130,7 @@
             this.Txt_CrearCuenta_Correo.ForeColor = System.Drawing.Color.White;
             this.Txt_CrearCuenta_Correo.Location = new System.Drawing.Point(242, 104);
             this.Txt_CrearCuenta_Correo.Name = "Txt_CrearCuenta_Correo";
-            this.Txt_CrearCuenta_Correo.Size = new System.Drawing.Size(411, 23);
+            this.Txt_CrearCuenta_Correo.Size = new System.Drawing.Size(411, 20);
             this.Txt_CrearCuenta_Correo.TabIndex = 13;
             this.Txt_CrearCuenta_Correo.Tag = "Usuario";
             // 
@@ -142,7 +142,7 @@
             this.Txt_CrearCuenta_Contra.ForeColor = System.Drawing.Color.White;
             this.Txt_CrearCuenta_Contra.Location = new System.Drawing.Point(242, 255);
             this.Txt_CrearCuenta_Contra.Name = "Txt_CrearCuenta_Contra";
-            this.Txt_CrearCuenta_Contra.Size = new System.Drawing.Size(411, 23);
+            this.Txt_CrearCuenta_Contra.Size = new System.Drawing.Size(411, 20);
             this.Txt_CrearCuenta_Contra.TabIndex = 14;
             this.Txt_CrearCuenta_Contra.Tag = "Usuario";
             // 
@@ -181,7 +181,7 @@
             this.Link_CrearCuenta_Regresar.LinkColor = System.Drawing.SystemColors.Control;
             this.Link_CrearCuenta_Regresar.Location = new System.Drawing.Point(416, 394);
             this.Link_CrearCuenta_Regresar.Name = "Link_CrearCuenta_Regresar";
-            this.Link_CrearCuenta_Regresar.Size = new System.Drawing.Size(81, 17);
+            this.Link_CrearCuenta_Regresar.Size = new System.Drawing.Size(67, 16);
             this.Link_CrearCuenta_Regresar.TabIndex = 17;
             this.Link_CrearCuenta_Regresar.TabStop = true;
             this.Link_CrearCuenta_Regresar.Text = "Regresar D:";

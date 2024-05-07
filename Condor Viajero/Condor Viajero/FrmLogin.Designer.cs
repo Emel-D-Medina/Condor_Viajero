@@ -72,7 +72,7 @@
             this.LbLogin.ForeColor = System.Drawing.Color.White;
             this.LbLogin.Location = new System.Drawing.Point(402, 9);
             this.LbLogin.Name = "LbLogin";
-            this.LbLogin.Size = new System.Drawing.Size(137, 44);
+            this.LbLogin.Size = new System.Drawing.Size(113, 37);
             this.LbLogin.TabIndex = 1;
             this.LbLogin.Text = "LOGIN";
             // 
@@ -80,7 +80,7 @@
             // 
             this.TxtUsuario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.TxtUsuario.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.TxtUsuario.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtUsuario.Font = new System.Drawing.Font("HelveticaNeue", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtUsuario.ForeColor = System.Drawing.Color.White;
             this.TxtUsuario.Location = new System.Drawing.Point(247, 118);
             this.TxtUsuario.Name = "TxtUsuario";
@@ -92,7 +92,7 @@
             // 
             this.TxtContraseña.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.TxtContraseña.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.TxtContraseña.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtContraseña.Font = new System.Drawing.Font("HelveticaNeue", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtContraseña.ForeColor = System.Drawing.Color.White;
             this.TxtContraseña.Location = new System.Drawing.Point(247, 222);
             this.TxtContraseña.Name = "TxtContraseña";
@@ -123,7 +123,7 @@
             this.Link_Login_OlvidaContra.LinkColor = System.Drawing.SystemColors.Control;
             this.Link_Login_OlvidaContra.Location = new System.Drawing.Point(373, 400);
             this.Link_Login_OlvidaContra.Name = "Link_Login_OlvidaContra";
-            this.Link_Login_OlvidaContra.Size = new System.Drawing.Size(178, 17);
+            this.Link_Login_OlvidaContra.Size = new System.Drawing.Size(152, 16);
             this.Link_Login_OlvidaContra.TabIndex = 5;
             this.Link_Login_OlvidaContra.TabStop = true;
             this.Link_Login_OlvidaContra.Text = "¿Olvidaste la contraseña?";
@@ -136,7 +136,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(247, 186);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(125, 23);
+            this.label1.Size = new System.Drawing.Size(103, 21);
             this.label1.TabIndex = 7;
             this.label1.Text = "Contraseña";
             // 
@@ -147,7 +147,7 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(247, 83);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(79, 23);
+            this.label2.Size = new System.Drawing.Size(66, 21);
             this.label2.TabIndex = 8;
             this.label2.Text = "Usuario";
             // 
@@ -158,7 +158,7 @@
             this.Link_Logic_CrearCuenta.LinkColor = System.Drawing.SystemColors.Control;
             this.Link_Logic_CrearCuenta.Location = new System.Drawing.Point(407, 369);
             this.Link_Logic_CrearCuenta.Name = "Link_Logic_CrearCuenta";
-            this.Link_Logic_CrearCuenta.Size = new System.Drawing.Size(115, 17);
+            this.Link_Logic_CrearCuenta.Size = new System.Drawing.Size(96, 16);
             this.Link_Logic_CrearCuenta.TabIndex = 9;
             this.Link_Logic_CrearCuenta.TabStop = true;
             this.Link_Logic_CrearCuenta.Text = "Crear Cuenta :D";
