@@ -49,11 +49,12 @@ namespace Condor_Viajero
         private void Mapa_Load(object sender, EventArgs e)
         {
             Mapa.MapProvider = BingMapProvider.Instance;
+            BingMapProvider.Instance.ClientKey = Clases.Cls_ApiKey.BingMapApiKey;
             GMaps.Instance.Mode = AccessMode.ServerAndCache;
+            Mapa.MinZoom = 12; Mapa.MaxZoom = 15; Mapa.Zoom = 13;
+            Mapa.DragButton = MouseButtons.Left;
             Mapa.Position = Valledupar;
 
-            Mapa.DragButton = MouseButtons.Left;
-            Mapa.MinZoom = 12; Mapa.MaxZoom = 15; Mapa.Zoom = 13;
             Mapa.Overlays.Add(markerOverlay);
             Mapa.MinZoom = 0;
             Mapa.MaxZoom = 50;
@@ -64,7 +65,6 @@ namespace Condor_Viajero
             Mapa.DragButton = MouseButtons.Left;
             Mapa.CanDragMap = true;
             Mapa.MapProvider = BingMapProvider.Instance;
-            BingMapProvider.Instance.ClientKey = @"ApUTaO7sHvGZqA6QHbqWc3xCLF7i6InJfoCThewaS9kbjCASLhy2gCnU2QvNI2SA";
             GMaps.Instance.Mode = AccessMode.ServerAndCache;
 
 
