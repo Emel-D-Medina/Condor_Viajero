@@ -10,3 +10,13 @@ C:\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.csproj.AssemblyReferenc
 C:\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
 C:\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.dll
 C:\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.pdb
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\EntityFramework.dll
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\GMap.NET.Core.dll
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\System.Data.SQLite.dll
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\System.Data.SqlClient.dll
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\System.Security.Principal.Windows.dll
+C:\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.csproj.Up2Date

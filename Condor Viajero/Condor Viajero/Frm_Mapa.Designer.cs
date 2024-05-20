@@ -28,15 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dtMisRutas = new System.Windows.Forms.DataGridView();
+            this.dtGMisRutas = new System.Windows.Forms.DataGridView();
             this.btnGuardar = new System.Windows.Forms.Button();
             this.TxtDescripcion = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.DatosRutaSiva = new System.Windows.Forms.DataGridView();
+            this.dtGRutasSiva = new System.Windows.Forms.DataGridView();
             this.LlegarBtn = new System.Windows.Forms.Button();
-            this.dtLugares = new System.Windows.Forms.DataGridView();
+            this.dtGLugares = new System.Windows.Forms.DataGridView();
             this.label3 = new System.Windows.Forms.Label();
             this.TxtLongitud = new System.Windows.Forms.TextBox();
             this.TxtLatitud = new System.Windows.Forms.TextBox();
@@ -45,21 +45,21 @@
             this.BtnAgregar = new System.Windows.Forms.Button();
             this.BtnEliminar = new System.Windows.Forms.Button();
             this.Mapa = new GMap.NET.WindowsForms.GMapControl();
-            ((System.ComponentModel.ISupportInitialize)(this.dtMisRutas)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.DatosRutaSiva)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dtLugares)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtGMisRutas)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtGRutasSiva)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtGLugares)).BeginInit();
             this.SuspendLayout();
             // 
-            // dtMisRutas
+            // dtGMisRutas
             // 
-            this.dtMisRutas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtMisRutas.Location = new System.Drawing.Point(1004, 311);
-            this.dtMisRutas.Name = "dtMisRutas";
-            this.dtMisRutas.RowHeadersWidth = 51;
-            this.dtMisRutas.RowTemplate.Height = 24;
-            this.dtMisRutas.Size = new System.Drawing.Size(179, 254);
-            this.dtMisRutas.TabIndex = 72;
-            this.dtMisRutas.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtMisRutas_CellClick);
+            this.dtGMisRutas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtGMisRutas.Location = new System.Drawing.Point(1004, 311);
+            this.dtGMisRutas.Name = "dtGMisRutas";
+            this.dtGMisRutas.RowHeadersWidth = 51;
+            this.dtGMisRutas.RowTemplate.Height = 24;
+            this.dtGMisRutas.Size = new System.Drawing.Size(179, 254);
+            this.dtGMisRutas.TabIndex = 72;
+            this.dtGMisRutas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtGMisRutas_CellContentClick);
             // 
             // btnGuardar
             // 
@@ -105,22 +105,22 @@
             this.label4.Location = new System.Drawing.Point(634, 460);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(75, 16);
+            this.label4.Size = new System.Drawing.Size(68, 16);
             this.label4.TabIndex = 67;
-            this.label4.Text = "Rutas SIVA";
+            this.label4.Text = "Ruta SIVA";
             // 
-            // DatosRutaSiva
+            // dtGRutasSiva
             // 
-            this.DatosRutaSiva.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DatosRutaSiva.Location = new System.Drawing.Point(638, 496);
-            this.DatosRutaSiva.Margin = new System.Windows.Forms.Padding(4);
-            this.DatosRutaSiva.Name = "DatosRutaSiva";
-            this.DatosRutaSiva.ReadOnly = true;
-            this.DatosRutaSiva.RowHeadersWidth = 51;
-            this.DatosRutaSiva.RowTemplate.Height = 24;
-            this.DatosRutaSiva.Size = new System.Drawing.Size(292, 128);
-            this.DatosRutaSiva.TabIndex = 66;
-            this.DatosRutaSiva.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DatosRutaSiva_CellContentClick);
+            this.dtGRutasSiva.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtGRutasSiva.Location = new System.Drawing.Point(638, 496);
+            this.dtGRutasSiva.Margin = new System.Windows.Forms.Padding(4);
+            this.dtGRutasSiva.Name = "dtGRutasSiva";
+            this.dtGRutasSiva.ReadOnly = true;
+            this.dtGRutasSiva.RowHeadersWidth = 51;
+            this.dtGRutasSiva.RowTemplate.Height = 24;
+            this.dtGRutasSiva.Size = new System.Drawing.Size(292, 128);
+            this.dtGRutasSiva.TabIndex = 66;
+            this.dtGRutasSiva.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DatosRutaSiva_CellContentClick);
             // 
             // LlegarBtn
             // 
@@ -134,19 +134,19 @@
             this.LlegarBtn.UseVisualStyleBackColor = false;
             this.LlegarBtn.Click += new System.EventHandler(this.LlegarBtn_Click);
             // 
-            // dtLugares
+            // dtGLugares
             // 
-            this.dtLugares.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dtLugares.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtLugares.Location = new System.Drawing.Point(636, 311);
-            this.dtLugares.Margin = new System.Windows.Forms.Padding(4);
-            this.dtLugares.Name = "dtLugares";
-            this.dtLugares.ReadOnly = true;
-            this.dtLugares.RowHeadersWidth = 51;
-            this.dtLugares.RowTemplate.Height = 24;
-            this.dtLugares.Size = new System.Drawing.Size(294, 130);
-            this.dtLugares.TabIndex = 64;
-            this.dtLugares.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtLugares_CellContentClick);
+            this.dtGLugares.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dtGLugares.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtGLugares.Location = new System.Drawing.Point(636, 311);
+            this.dtGLugares.Margin = new System.Windows.Forms.Padding(4);
+            this.dtGLugares.Name = "dtGLugares";
+            this.dtGLugares.ReadOnly = true;
+            this.dtGLugares.RowHeadersWidth = 51;
+            this.dtGLugares.RowTemplate.Height = 24;
+            this.dtGLugares.Size = new System.Drawing.Size(294, 130);
+            this.dtGLugares.TabIndex = 64;
+            this.dtGLugares.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtLugares_CellContentClick);
             // 
             // label3
             // 
@@ -252,15 +252,15 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1234, 759);
-            this.Controls.Add(this.dtMisRutas);
+            this.Controls.Add(this.dtGMisRutas);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.TxtDescripcion);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.DatosRutaSiva);
+            this.Controls.Add(this.dtGRutasSiva);
             this.Controls.Add(this.LlegarBtn);
-            this.Controls.Add(this.dtLugares);
+            this.Controls.Add(this.dtGLugares);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.TxtLongitud);
             this.Controls.Add(this.TxtLatitud);
@@ -271,9 +271,9 @@
             this.Controls.Add(this.Mapa);
             this.Name = "Frm_Mapa";
             this.Text = "Frm_Mapa";
-            ((System.ComponentModel.ISupportInitialize)(this.dtMisRutas)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.DatosRutaSiva)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dtLugares)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtGMisRutas)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtGRutasSiva)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtGLugares)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -281,15 +281,15 @@
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dtMisRutas;
+        private System.Windows.Forms.DataGridView dtGMisRutas;
         private System.Windows.Forms.Button btnGuardar;
         private System.Windows.Forms.TextBox TxtDescripcion;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.DataGridView DatosRutaSiva;
+        private System.Windows.Forms.DataGridView dtGRutasSiva;
         private System.Windows.Forms.Button LlegarBtn;
-        private System.Windows.Forms.DataGridView dtLugares;
+        private System.Windows.Forms.DataGridView dtGLugares;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox TxtLongitud;
         private System.Windows.Forms.TextBox TxtLatitud;

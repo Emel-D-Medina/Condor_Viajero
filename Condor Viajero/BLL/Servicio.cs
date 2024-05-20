@@ -73,7 +73,6 @@ namespace BLL
 
                 double minimaDistancia = distancias.Min();
             }
-            //textBox1.Text = minimaDistancia.ToString();
         }
     }
 }

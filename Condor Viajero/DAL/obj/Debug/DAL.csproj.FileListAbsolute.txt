@@ -25,3 +25,6 @@ C:\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cach
 C:\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.dll
 C:\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.pdb
+C:\Condor_Viajero\Condor Viajero\DAL\bin\Debug\GMap.NET.Core.dll
+C:\Condor_Viajero\Condor Viajero\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Condor_Viajero\Condor Viajero\DAL\bin\Debug\System.Data.SQLite.dll
