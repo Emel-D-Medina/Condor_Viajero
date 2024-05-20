@@ -20,3 +20,11 @@ C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\System.Data.SQLite.EF6.dll
 C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\System.Data.SQLite.Linq.dll
 C:\Condor_Viajero\Condor Viajero\Entity\bin\Debug\System.Security.Principal.Windows.dll
 C:\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.csproj.Up2Date
+=======
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\Entity\bin\Debug\Entity.dll
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\Entity\bin\Debug\Entity.pdb
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.dll
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\Entity\obj\Debug\Entity.pdb
+>>>>>>> Stashed changes
