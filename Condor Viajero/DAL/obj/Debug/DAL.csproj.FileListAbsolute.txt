@@ -25,6 +25,18 @@ C:\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cach
 C:\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.dll
 C:\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.pdb
+<<<<<<< Updated upstream
 C:\Condor_Viajero\Condor Viajero\DAL\bin\Debug\GMap.NET.Core.dll
 C:\Condor_Viajero\Condor Viajero\DAL\bin\Debug\Newtonsoft.Json.dll
 C:\Condor_Viajero\Condor Viajero\DAL\bin\Debug\System.Data.SQLite.dll
+=======
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\bin\Debug\DAL.dll
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\bin\Debug\DAL.pdb
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\bin\Debug\Entity.dll
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\bin\Debug\Entity.pdb
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.dll
+C:\Users\57304\Source\Repos\Condor_Viajero\Condor Viajero\DAL\obj\Debug\DAL.pdb
+>>>>>>> Stashed changes
