@@ -175,9 +175,9 @@
       <Project>{6384eafe-c283-482e-96bf-e3cd5f7a7189}</Project>
       <Name>BLL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Entity\Entity.csproj">
+    <ProjectReference Include="..\Entity\ENTITY.csproj">
       <Project>{f24612a8-d8f3-49c3-95ca-59132b9fa864}</Project>
-      <Name>Entity</Name>
+      <Name>ENTITY</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
